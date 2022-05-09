@@ -1,2 +1,2 @@
 # 15-Connect-Four
-Project in progress still
+Fun connect four game
